@@ -48,6 +48,24 @@ Mi enfoque integra la visión técnica de un **pentester** con la precisión ana
 
 ---
 
+## 📝 Scripts de Bash
+
+Este repositorio incluye scripts educativos de Bash para diferentes propósitos:
+
+- **display_odd_numbers.sh** — Script que muestra números naturales impares del 1 al 99 usando bucles `for`.  
+- **odd_numbers_alternative.sh** — Demuestra 4 métodos diferentes para mostrar números impares usando bucles `for` en Bash.
+
+### Uso
+```bash
+# Ejecutar el script principal
+./display_odd_numbers.sh
+
+# Ejecutar el script con métodos alternativos
+./odd_numbers_alternative.sh
+```
+
+---
+
 ## 📈 Objetivos profesionales
 
 Mi objetivo es continuar fortaleciendo la relación entre **ciberseguridad y desarrollo**, contribuyendo a la creación de entornos más **seguros, eficientes y automatizados**.  
